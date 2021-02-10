@@ -3,3 +3,8 @@
 
 # temporary files
 *~
+*\#
+
+# data files
+*.csv
+*.png

@@ -1,0 +1,10 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# temporary files
+*~
+*\#
+
+# data files
+*.csv
+*.png
